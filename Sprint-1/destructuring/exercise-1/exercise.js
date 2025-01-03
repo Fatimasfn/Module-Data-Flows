@@ -4,7 +4,7 @@ const personOne = {
   favouriteFood: "Spinach",
 };
 
-let {name, age, favouriteFood} = personOne;
+//let {name, age, favouriteFood} = personOne;
 
 // Update the parameter to this function to make it work.
 // Don't change anything else.
